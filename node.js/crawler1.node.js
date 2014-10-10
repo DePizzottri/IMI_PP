@@ -1,5 +1,6 @@
 /*
-    node.js VK crawler
+    node.js VK crawler1
+    got 10k ids
 */
 
 http = require('https')
