@@ -1,4 +1,4 @@
 IMI_PP
 ======
 
-Материалы для курса "Параллельное программирование",  ИМИ БГУ, 2014
+Parallel programming course materials, IMI BSU, 2014
